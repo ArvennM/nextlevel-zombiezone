@@ -30,7 +30,10 @@ Citizen.CreateThread(function()
     end
 end)
 
---  bu kod ile değişitirin client de aratırsanız bulursunuz      <3
+
+
+
+--  bu kod ile değişitirin client de aratırsanız bulursunuz     
 local lastZombieKillTime = 0
 local zombieRespawnDelay = 3000
 
