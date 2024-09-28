@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Weponz'
+author 'ArvenM'
 description 'Next Zombie Zone'
 version '1.0.2'
 
